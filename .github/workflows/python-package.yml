@@ -77,4 +77,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: jinny1/gfg27img:latest
+          tags: hellosircodeplay/gfg27img:latest
